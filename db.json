@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "prénom": "wbouricha5@gmail.com",
+      "nom": "wbouricha5@gmail.com",
+      "email": "wbouricha5@gmail.com",
+      "téléphone": 695580726,
+      "salaire": 6535555
+    },
+    {
+      "id": 3,
+      "prénom": "test",
+      "nom": "testus",
+      "email": "toscanoanderson@gmail.com",
+      "téléphone": 68879423,
+      "salaire": 90000
+    },
+    {
+      "id": 4,
+      "prénom": "test",
+      "nom": "fsf",
+      "email": "wbouricha5@gmail.com",
+      "téléphone": 695580726,
+      "salaire": 651688
+    },
+    {
+      "id": 5,
+      "prenom": "wassim",
+      "nom": "bouricha",
+      "email": "wbouricha5@gmail.com",
+      "telephone": 695580726,
+      "salaire": 240000
+    },
+    {
+      "id": 7,
+      "prenom": "patrick",
+      "nom": "timsit",
+      "email": "ptimsit@gmail.com",
+      "telephone": 8999999999,
+      "salaire": 36255555
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
