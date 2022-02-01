@@ -10,3 +10,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 run `json-server --watch db.json` to see the json server on `http://localhost:3000/`
 
+don't forget to install node with npm install
